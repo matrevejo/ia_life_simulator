@@ -1,0 +1,67 @@
+# Carpetas generadas por Unity (obligatorio ignorar)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Caché de memoria y profilers
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Configuración personal del Asset Store
+/[Aa]ssets/AssetStoreTools*
+
+# Archivos autogenerados por Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+.consulo/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos meta de ficheros autogenerados
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Reportes de fallos de Unity
+sysinfo.txt
+crash.dmp
+
+# Archivos de compilación e instaladores
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Archivos generados por Addressables y PlasticSCM
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+.plastic/
+
+# Archivos del sistema operativo (Windows / Mac)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
